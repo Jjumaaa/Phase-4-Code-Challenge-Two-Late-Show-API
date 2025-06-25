@@ -86,7 +86,7 @@ Authorization: Bearer <your_jwt_token_here>
 * `GET /guests`
 * `POST /appearances` *(Requires JWT Auth)*
 
-## Postman Usage Guide
+## ThunderClient Usage Guide(!!)
 
 Import into ThundeerClient and test endpoints for Registration, Login, Viewing Episodes, Viewing Guests, and Creating Appearances.
 
