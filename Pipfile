@@ -16,6 +16,9 @@ alembic = "*"
 flask-cors = "*"
 sqlalchemy = "*"
 serializer = "*"
+sqlalchemy-serializer = "*"
+flask-bcrypt = "*"
+flask-restful = "*"
 
 [dev-packages]
 
