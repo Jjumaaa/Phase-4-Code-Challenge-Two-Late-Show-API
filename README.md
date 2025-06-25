@@ -88,7 +88,7 @@ Authorization: Bearer <your_jwt_token_here>
 
 ## Postman Usage Guide
 
-Import into Postman and test endpoints for Registration, Login, Viewing Episodes, Viewing Guests, and Creating Appearances.
+Import into ThundeerClient and test endpoints for Registration, Login, Viewing Episodes, Viewing Guests, and Creating Appearances.
 
 ## GitHub Repository
 
